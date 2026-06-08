@@ -1,0 +1,17 @@
+# IDE 配置文件
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+
+# Maven 编译产物
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# 日志文件
+*.log
+logs/
